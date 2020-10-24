@@ -1,6 +1,6 @@
 # School-Management-JavaFx
 Using Java fx project about school management 
-## used: 
+## Used: 
 * Java Fx 
 * Scanebuilder
 * Client sever 
